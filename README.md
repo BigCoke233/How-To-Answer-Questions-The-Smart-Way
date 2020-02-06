@@ -2,7 +2,7 @@
 
 # 回答的智慧
 
-[![](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square)![](https://img.shields.io/badge/License-CC-blue?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)![](https://img.shields.io/badge/Written with-❤-red?style=flat-square)
+[![](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square) ![](https://img.shields.io/badge/License-CC-blue?style=flat-square) ](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)![](https://img.shields.io/badge/Written%20with-❤-red?style=flat-square)
 
 **How to Answer Questions The Smart Way**
 
