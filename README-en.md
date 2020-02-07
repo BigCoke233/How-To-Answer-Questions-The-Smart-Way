@@ -37,20 +37,20 @@ In addition, this document is a labor product jointly written by [Eltrac](https:
 
 If you find this document helpful, I hope you can give us a star for support.
 
-## table of Contents
+## List of contents 
 
 - Introduction
 - Before answering the question
-  - Ways to ask questions
-  - Identify the questioner
-  - Read the questions briefly
+  - Ways to ask questions
+  - Identify the questioner
+  - Read the questions briefly
 - When answering questions
-  - In-depth analysis
-  - Syntactic statements
-  - Terminology
-  - Pay attention to punctuation
-  - Reduce rhetorical questions
-  - Basic etiquette
+  - In-depth analysis
+  - Syntactic statements
+  - Terminology
+  - Pay attention to punctuation
+  - Reduce rhetorical questions
+  - Basic etiquette
 - Necessary supplementary notes
 - How to decline politely
 - If the problem is still not resolved
@@ -81,9 +81,9 @@ It may also be through the private chat window of the instant messaging software
 
 The so-called "identity" here should include the following factors:
 
--Are you familiar (stranger / friend?)
--Do you have subordinate relationships (colleagues / leaders?)
--Your opponent's technical level (Xiaobai / Getting Started / Mastery?)
+- Are you familiar (stranger / friend?)
+- Do you have subordinate relationships (colleagues / leaders?)
+- Questioner's technical level (Xiaobai / Getting Started / Mastery?)
 
 This is a more important factor. If you are familiar with the questioner, then you can try to recall the mistakes or bad habits often made by the other person and see if the problem is caused by these factors; if the other person is your leader or has a high status in the form To your people, then the tone should be more respectful, even if the other party is asking for you; if you know the technical level of the other party, we can decide whether to use more esoteric professional terms in the description, you can understand the other party Is there the ability to solve this problem and so on.
 
@@ -91,10 +91,10 @@ This is a more important factor. If you are familiar with the questioner, then y
 
 Don't rush to solve it first, simply glance at the problem and see if it is:
 
--Very basic / simple
--Ability to easily find answers on search engines
--Someone has proposed a solution
--Mentioned in the documentation provided by the original author (if using an open source project)
+- Very basic / simple
+- Ability to easily find answers on search engines
+- Someone has proposed a solution
+- Mentioned in the documentation provided by the original author if using an open source project
 
 If this question does meet the above conditions, then you have every reason to not waste time and not answer the question yourself. You can tell the other party directly where the answer is, and maybe a link will help the other party solve the problem faster.
 
@@ -139,7 +139,7 @@ If you really hate punctuation and annoying, and find it difficult to switch inp
 
 ### Reduce rhetorical questions
 
-Many questioners do not know the wisdom of asking questions. They do not always give complete information for the questionees to analyze, and often they need to ask them in turn to get more information. I think this is why many GitHub repositories write a default format for issues, just to make the questioner provide as complete information as possible.
+Many questioners do not understand the wisdom of asking questions. They do not always give complete information for the questionees to analyze, and often they need to ask them in turn to get more information. I think this is why many GitHub repositories set a default format for submit issues, just to make the questioner provide as complete information as possible.
 
 You will also encounter times when you need to ask back, but in many cases this is very time consuming, because questioners with poor foundation often need you to explain to them what and where you want the information, and the other party may also Finding the answer while waiting for your answer is not friendly to the other party. Therefore, it is necessary to reduce the number of cross-examinations as much as possible. If possible, speak out the information that the other party has not provided, which is friendly to both parties.
 
@@ -169,7 +169,7 @@ First of all, truthfully explain the reason why you ca n’t answer (if this rea
 
 If possible, you can recommend other capable bosses, or websites / documents that may have relevant information, so that the other party can find a direction and solve the problem faster.
 
-Finally, although there is no need to apologize, please say "I'm sorry".
+Finally, although there is no need to apologize, please say "I'm so sorry".
 
 ## If the problem is still not resolved
 
@@ -185,15 +185,15 @@ If in the end you still can't help the other party to solve the problem and wast
 
 If you describe the solution or directly help, due to operating errors and other reasons, the other party caused some losses, such as: data loss, server overload and other problems. Although this situation is less common, you should take responsibility if you encounter it.
 
-First and foremost, never say "I'm sorry". In this case, the first thing you can do is **apology **, take the initiative to admit your mistake, describe the reason for the accident, and don't make the other person think you are joking.
+First and foremost, should say "I'm sorry". In this case, the first thing you can do is **apology **, take the initiative to admit your mistake, describe the reason for the accident, and don't make the other person think you are joking.
 
-Then, try to remedy. Just like when you accidentally broke the toys of other children's children, no matter what the result, you still have to repair the pot. Even if you can't completely repair it, it's still showing your attitude.
+Then, try to remedy. Just like when you accidentally broke the toys of other children's children, no matter what the result, you still have to repair the error. Even if you can't completely repair it, the way still showing your attitude.
 
 In the end, if it really caused irreparable losses to the other party, how to compensate depends on the other party's thoughts.
 
 ## Reward
 
-You helped the other person solve the problem and deserve a certain amount of compensation. But for the Internet, it is more of a kind-hearted help. You should n’t ask for compensation forcibly. Do n’t think that if you help the other person to do a little favor, the other person should throw your money, not to mention that the money is not much. However, if the other party really wants to use money as a thank you, don't decline, because this is what you deserve.
+You helped the other person solve the problem and deserve a certain amount of compensation. But in the Internet, it is more of a kind-hearted help. You should n’t ask for compensation forcibly. Don’t think that if you help the other person to do a little favor, the other person should give your money, not to mention that the money is not much. However, if the other party really wants to use money as a thank you, don't decline, because this is what you deserve.
 
 ---
 
