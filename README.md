@@ -1,11 +1,10 @@
 语言：简体中文 | [繁体中文](README-zh-tw.md) | [English](README-en.md) 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # 回答的智慧
 
-[![](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square) ![](https://img.shields.io/badge/License-CC-blue?style=flat-square) ](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)![](https://img.shields.io/badge/Written%20with-❤-red?style=flat-square)
+[![](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square) ![](https://img.shields.io/badge/License-CC-blue?style=flat-square) ](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)![](https://img.shields.io/badge/Written%20with-❤-red?style=flat-square)<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 **How to Answer Questions The Smart Way**
 
@@ -23,8 +22,21 @@ Copyright &copy; 2020 Eltrac (BigCoke233) , All rights reserved.
 
 ## 贡献者
 
-- [Eltrac](https://github.com/BigCoke233) 编写中文原版
-- [Scvoet](https://github.com/scvoet) 编写英文版
+感谢所有为这个项目提供帮助的人！
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://www.guhub.cn"><img src="https://avatars1.githubusercontent.com/u/45323514?v=4" width="100px;" alt=""/><br /><sub><b>Eltrac</b></sub></a><br /><a href="#projectManagement-BigCoke233" title="Project Management">📆</a> <a href="#content-BigCoke233" title="Content">🖋</a> 中文原版</td>
+    <td align="center"><a href="https://scvoet.me"><img src="https://avatars1.githubusercontent.com/u/45708948?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Scvoet</b></sub></a><br /><a href="#content-scvoet" title="Content">🖋</a> 英文译本</td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ---
 
@@ -200,23 +212,4 @@ Copyright &copy; 2020 Eltrac (BigCoke233) , All rights reserved.
 
 ---
 
-&copy; 采用[知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)进行授权。
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://www.guhub.cn"><img src="https://avatars1.githubusercontent.com/u/45323514?v=4" width="100px;" alt=""/><br /><sub><b>Eltrac</b></sub></a><br /><a href="#projectManagement-BigCoke233" title="Project Management">📆</a> <a href="#content-BigCoke233" title="Content">🖋</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+&copy; 采用[知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)进行授权许可
