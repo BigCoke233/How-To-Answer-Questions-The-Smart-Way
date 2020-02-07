@@ -1,4 +1,4 @@
-Lang: [简体中文](README.md) | [繁体中文](README-zh-tw.md) | [English](README-en.md) 
+Language: [简体中文](README.md) | [繁体中文](README-zh-tw.md) | English 
 
 # How to answer questions the smart way
 
@@ -35,9 +35,9 @@ Before you read and adopt the body of this document, we must emphasize a few mor
 
 In addition, this document is a labor product jointly written by [Eltrac](https://github.com/BigCoke233) and other contributors. If you need to quote any content of this document, please indicate the address of the project after quoting , Otherwise it will be considered copyright infringement.
 
-If you find this document helpful, I hope you can give us a star for support.
+If you think this document helpful, I hope you can give us a star for support.
 
-## List of contents 
+## Contents 
 
 - Introduction
 - Before answering the question
@@ -83,7 +83,7 @@ The so-called "identity" here should include the following factors:
 
 - Are you familiar (stranger / friend?)
 - Do you have subordinate relationships (colleagues / leaders?)
-- Questioner's technical level (Xiaobai / Getting Started / Mastery?)
+- Questioner's technical level (Layman / Starter / Mastery?)
 
 This is a more important factor. If you are familiar with the questioner, then you can try to recall the mistakes or bad habits often made by the other person and see if the problem is caused by these factors; if the other person is your leader or has a high status in the form To your people, then the tone should be more respectful, even if the other party is asking for you; if you know the technical level of the other party, we can decide whether to use more esoteric professional terms in the description, you can understand the other party Is there the ability to solve this problem and so on.
 
@@ -91,9 +91,9 @@ This is a more important factor. If you are familiar with the questioner, then y
 
 Don't rush to solve it first, simply glance at the problem and see if it is:
 
-- Very basic / simple
-- Ability to easily find answers on search engines
-- Someone has proposed a solution
+- Very easy
+- Able to be easily found answers for on search engines
+- Already solved by someone
 - Mentioned in the documentation provided by the original author if using an open source project
 
 If this question does meet the above conditions, then you have every reason to not waste time and not answer the question yourself. You can tell the other party directly where the answer is, and maybe a link will help the other party solve the problem faster.
