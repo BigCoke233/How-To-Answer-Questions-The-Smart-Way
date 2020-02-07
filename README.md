@@ -1,4 +1,4 @@
-Language: Englishi | [简体中文](README.md) | [繁体中文](README-zh-tw.md)
+Language: Englishi | [简体中文](README-zh.md) | [繁体中文](README-zh-tw.md)
 
 # How to answer questions The smart way
 

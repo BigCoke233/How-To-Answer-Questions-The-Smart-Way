@@ -1,4 +1,4 @@
-語言：[English](README-en.md) | [简体中文](README.md) | 繁體中文
+語言：[English](README.md) | [简体中文](README-zh.md) | 繁體中文
 
 # 回答的智慧
 
