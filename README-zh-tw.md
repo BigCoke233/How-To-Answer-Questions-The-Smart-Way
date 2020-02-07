@@ -1,4 +1,4 @@
-語言：[简体中文](README.md) | 繁體中文
+語言：[简体中文](README.md) | 繁體中文 | [English](README-en.md) 
 
 # 回答的智慧
 
@@ -21,6 +21,7 @@ Copyright &copy; 2020 Eltrac (BigCoke233) , All rights reserved.
 ## 貢獻者
 
 - [Eltrac](https://github.com/BigCoke233) 編寫中文原版
+- [Scvoet](https://github.com/BigCoke233) 編寫英文版
 
 ---
 
@@ -55,8 +56,6 @@ Copyright &copy; 2020 Eltrac (BigCoke233) , All rights reserved.
 - 如果問題還是沒解決
 - 搞砸了怎麽辦？
 - 報酬
-
-
 
 ## 介紹
 
@@ -182,7 +181,7 @@ Copyright &copy; 2020 Eltrac (BigCoke233) , All rights reserved.
 
 如果到最後妳還是沒能幫助對方解決問題，浪費了對方的時間，壹句“對不起”總是好的。通常這樣的問題在搜索引擎或是某些網站上已經難以找到答案，妳可以給對方推薦壹些更厲害的大佬，說不定別人就解決了呢？
 
-## 搞砸了怎麽辦？
+## 搞砸了怎麽辦
 
 如果妳在描述解決方案或是直接幫助時因為操作失誤等原因，給對方造成了壹定的損失，例如：數據丟失、服務器過載等問題。盡管這種情況不太常見，但如果遇到了，妳應該負起責任。
 
