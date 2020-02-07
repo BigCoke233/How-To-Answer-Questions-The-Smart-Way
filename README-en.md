@@ -20,8 +20,21 @@ Copyright &copy; 2020 Eltrac (BigCoke233) , All rights reserved.
 
 ## Contributors
 
-- Chinese version by [Eltrac](https://github.com/BigCoke233)
-- English version by [Scvoet](https://github.com/scvoet)
+Thanks to all the people who made contributions to the project!
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://www.guhub.cn"><img src="https://avatars1.githubusercontent.com/u/45323514?v=4" width="100px;" alt=""/><br /><sub><b>Eltrac</b></sub></a><br /><a href="#projectManagement-BigCoke233" title="Project Management">📆</a> <a href="#content-BigCoke233" title="Content">🖋</a> Raw Chinese Edition</td>
+    <td align="center"><a href="https://scvoet.me"><img src="https://avatars1.githubusercontent.com/u/45708948?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Scvoet</b></sub></a><br /><a href="#content-scvoet" title="Content">🖋</a> English Edition</td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ---
 
