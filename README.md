@@ -1,36 +1,36 @@
-语言：简体中文 | [繁体中文](README-zh-tw.md) | [English](README-en.md) 
+Language: Englishi | [简体中文](README.md) | [繁体中文](README-zh-tw.md)
 
-# 回答的智慧
+# How to answer questions The smart way
 
-[![](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square) ![](https://img.shields.io/badge/License-CC-blue?style=flat-square) ](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)![](https://img.shields.io/badge/Written%20with-❤-red?style=flat-square)<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square) ![](https://img.shields.io/badge/License-CC-blue?style=flat-square) ](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)![](https://img.shields.io/badge/Written%20with-❤-red?style=flat-square) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 **How to Answer Questions The Smart Way**
 
-本文档用作为回答他人技术问题合理方式的参考，中文初版由 [Eltrac](https://github.com/BigCoke233) 编写。
+This document serves as a reference for a logical way to answer technical questions from others, and Chinese version by Eltrac.
 
-这仅是一个参考用的文档，并不是任何规则，希望能对您有帮助。
+This is just a reference document, not any rules, I hope it will be helpful to you.
 
-如果您使用本文档的内容造成了任何损失，我们概不负责，这只是个参考。
+We are not responsible for any loss caused by yourself in the contents of this document, this is just a reference.
 
-**注意，本文档与提问的智慧无关联。**
+**Should note that this document is not specific to How To Ask Questions The Smart Way.**
 
-最后，欢迎提出宝贵的意见和有益的 Pull Requests
+Finally, welcome your valuable feedback and helpful Pull Requests.
 
 Copyright &copy; 2020 Eltrac (BigCoke233) , All rights reserved.
 
-## 贡献者
+## Contributors
 
-感谢所有为这个项目提供帮助的人！
+Thanks to all the people who made contributions to the project!
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://www.guhub.cn"><img src="https://avatars1.githubusercontent.com/u/45323514?v=4" width="100px;" alt=""/><br /><sub><b>Eltrac</b></sub></a><br /><a href="#projectManagement-BigCoke233" title="Project Management">📆</a> <a href="#content-BigCoke233" title="Content">🖋</a> 中文原版</td>
-    <td align="center"><a href="https://scvoet.me"><img src="https://avatars1.githubusercontent.com/u/45708948?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Scvoet</b></sub></a><br /><a href="#content-scvoet" title="Content">🖋</a> 英文译本</td>
+    <td align="center"><a href="https://www.guhub.cn"><img src="https://avatars1.githubusercontent.com/u/45323514?v=4" width="100px;" alt=""/><br /><sub><b>Eltrac</b></sub></a><br /><a href="#projectManagement-BigCoke233" title="Project Management">📆</a> <a href="#content-BigCoke233" title="Content">🖋</a> Raw Chinese Edition</td>
+    <td align="center"><a href="https://scvoet.me"><img src="https://avatars1.githubusercontent.com/u/45708948?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Scvoet</b></sub></a><br /><a href="#content-scvoet" title="Content">🖋</a> English Edition</td>
   </tr>
 </table>
 
@@ -40,176 +40,176 @@ Copyright &copy; 2020 Eltrac (BigCoke233) , All rights reserved.
 
 ---
 
-## 声明
+## Declaration
 
-在您阅读并采纳本文档的正文之前，我们必须再次强调几点：
+Before you read and adopt the body of this document, we must emphasize a few more points:
 
-**本文档仅作为参考而不是任何形式的标准或规则。**
+**This document is for reference only and is not a standard or rule of any kind.**
 
-**我们只提供内容，不提供任何问题解决的服务，也不对任何后果负责。**
+**We only provide content, do not provide any problem solving services, and are not responsible for any consequences.**
 
-并且，本文档是 [Eltrac](https://github.com/BigCoke233) 以及其他贡献者共同编写的劳动成果，若需要引用本文档的任何内容，都请在引用文本后注明本项目的地址，否则将视为侵犯版权。
+In addition, this document is a labor product jointly written by [Eltrac](https://github.com/BigCoke233) and other contributors. If you need to quote any content of this document, please indicate the address of the project after quoting , Otherwise it will be considered copyright infringement.
 
-如果您觉得本文档对你有所帮助，希望您能给我们一个 star 作为支持。
+If you think this document helpful, I hope you can give us a star for support.
 
-## 目录
+## Contents 
 
-- 介绍
-- 回答问题之前
-  - 对方提问的途径
-  - 明确提问者的身份
-  - 简要阅读问题
-- 回答问题之时
-  - 深入分析
-  - 符合语法的语句
-  - 专业术语
-  - 注意标点符号
-  - 减少反问
-  - 基本的礼仪
-- 合理的补充说明
-- 如何有礼地拒绝
-- 如果问题还是没解决
-- 搞砸了怎么办？
-- 报酬
+- Introduction
+- Before answering the question
+  - Ways to ask questions
+  - Identify the questioner
+  - Read the questions briefly
+- When answering questions
+  - In-depth analysis
+  - Syntactic statements
+  - Terminology
+  - Pay attention to punctuation
+  - Reduce rhetorical questions
+  - Basic etiquette
+- Necessary supplementary notes
+- How to decline politely
+- If the problem is still not resolved
+- What to do if messed up
+- Reward
 
-## 介绍
+## Introduction
 
-一个程序员在学习的过程中会遇到各种问题，我们会在提问中成长。终有一天，我们也会主动或是被动地解决别人的问题，这个时候，拥有技术的实力不代表能回答好一个问题，这也需要技巧。
+A programmer will encounter various problems in the process of learning, and we will grow up in asking questions. One day, we will also actively or passively solve other people's problems. At this time, having the strength of technology does not mean that we can answer a question well. This also requires skill.
 
-回忆一下别人是怎么回答你的问题的，在众多你问题的回应之中，有没有答非所问、语句难懂，又或是折腾了半天也无法解决的？如果这不是你提问方式或是自身操作的问题，那么一定是被提问者一定不太擅长回答。是的，回答也需要智慧。
+Recall how others answered your question. Among the responses to many of your questions, did you answer questions that were not asked, the sentences were incomprehensible, or were you unable to solve after a long time? If this is not the way you ask questions or do it yourself, then it must be that the person being asked is not very good at answering. Yes, it takes wisdom to answer.
 
-如果你缺乏回答的技巧，说不定也会在不知不觉中犯下可笑的错误。这不仅会浪费你的时间，也一定会浪费提问者解决问题的宝贵时间。
+If you lack the answering skills, you may make absurd mistakes unknowingly. This will not only waste your time, but will definitely waste the valuable time of the questions in solving the problem.
 
-那么，如何有效率地回答他人的问题呢？
+So how do you answer the questions of others efficiently?
 
-## 回答问题之时
+## When answering questions
 
-### 对方提问的途径
+### Ways to ask questions
 
-首先，你要确认你是在哪里收到这个问题的，也就是说，要确认提问者是通过什么途径向你提问的。
+First of all, you need to confirm where you received the question, that is, to confirm the way the questioner asked you.
 
-可能是在论坛上求助发帖、在群聊/聊天室内发送问题，这样的问题是面向大众的，并没有针对性，所以如果你不想回答可以直接当做没看到。这个时候，你和提问者是平等的网友/群员。
+It may be asking for help on the forum, or sending questions in the group chat / chat room. Such questions are public-oriented and not targeted, so if you do n’t want to answer, you can just treat them as if you did n’t see them. At this time, you and the questioner are equal netizens / group members.
 
-也有可能是通过即时通讯软件的私聊窗口、电子邮件、面对面交流等方式，这样的问题的提问对象是只针对你（被提问者）的，对方大多是出于对你的信任和尊重才会向你寻求帮助（当然不排除病急乱投医的情况，这里就不讨论这个了），这时对方是直接地有求于你，但你仍然应该以互相尊重的态度对待。
+It may also be through the private chat window of the instant messaging software, email, face-to-face communication, etc. The question is only targeted to you (the person being asked), and the other party is mostly based on trust and respect for you. Ask you for help (of course, do not rule out the situation of emergency and medical treatment, this is not discussed here), then the other party directly asks you, but you should still treat each other with respect.
 
-### 明确提问者的身份
+### Identify the questioner
 
-这里所谓的“身份”，应该包含以下几个因素：
+The so-called "identity" here should include the following factors:
 
-- 是否熟识（陌生人/朋友？）
-- 是否与对方有上下级关系（同事/领导？）
-- 对方的技术水平（小白/入门/精通？）
+- Are you familiar (stranger / friend?)
+- Do you have subordinate relationships (colleagues / leaders?)
+- Questioner's technical level (Layman / Starter / Mastery?)
 
-这是比较重要的因素。如果你与提问者熟识，那么你可以尝试回忆对方常犯的错误或是一些不太好的习惯，看看这个问题是不是由这些因素造成的；如果对方是你的领导或是形式上地位高于你的人，那么语气最好应该放恭敬一些，即使是对方有求于你；如果了解了对方的技术水平，我们可以决定在描述中该不该使用比较深奥的专业术语，可以了解对方到底有没有能力解决这个问题等等。
+This is a more important factor. If you are familiar with the questioner, then you can try to recall the mistakes or bad habits often made by the other person and see if the problem is caused by these factors; if the other person is your leader or has a high status in the form To your people, then the tone should be more respectful, even if the other party is asking for you; if you know the technical level of the other party, we can decide whether to use more esoteric professional terms in the description, you can understand the other party Is there the ability to solve this problem and so on.
 
-### 简要阅读问题
+### Read the question briefly
 
-先别急着解决，简单扫一眼问题，看看这个问题是不是：
+Don't rush to solve it first, simply glance at the problem and see if it is:
 
-- 非常基础 / 简单
-- 能够容易地在搜索引擎上找到答案
-- 有人曾提出过解决方案
-- 在原作者提供的文档中有提到（如果是使用开源项目）
+- Very easy
+- Able to be easily found answers for on search engines
+- Already solved by someone
+- Mentioned in the documentation provided by the original author if using an open source project
 
-如果这个问题的确满足以上的条件，那么你完全有理由不浪费时间，不亲自回答这个问题。你可以直接告诉对方，这个问题在哪个地方有确切的答案，或许一个链接能让对方更快解决问题。
+If this question does meet the above conditions, then you have every reason to not waste time and not answer the question yourself. You can tell the other party directly where the answer is, and maybe a link will help the other party solve the problem faster.
 
-当然，还有一个很重要的问题需要确认：**对方是否有能力在你的描述下解决问题**。如果这个问题很麻烦，比如：需要在源文件中进行修改，要完全重写代码的结构，而对方基础薄弱，那么你就可以直接奉劝对方放弃；如果情况比较紧急的话，你也可以直接动手帮助对方操作，利用文件传输或是远程控制。
+Of course, there is another important question that needs to be confirmed: **Is the other party capable of solving the problem under your description**. If this problem is troublesome, for example: you need to make changes in the source file, completely rewrite the code structure, and the other party has a weak foundation, then you can directly advise the other party to give up; if the situation is more urgent, you can also directly help Operate by the other party, using file transfer or remote control.
 
-## 回答问题之时
+## When answering questions
 
-### 深入分析
+### In-depth analysis
 
-这是回答问题最重要的环节了，既然你已经决定要帮助对方，那么对方既是求助者，也是委托人，你需要把这件事当做你的工作来认真对待。这个时候，如果是私聊这样一对一的求助，记得先给对方发一句“好的，我看看”之类的话，表明你打算帮助解决这个问题了。
+This is the most important part of answering the question. Now that you have decided to help the other party, then the other party is both a beneficiaries and a client. You need to take this matter seriously as your work. At this time, if it is a one-on-one request for help in a private chat, remember to send the other person a "Okey, let me see" and other words, indicating that you intend to help him to solve this problem.
 
-首先，回答一个信息技术相关的问题，大多时候你应该要了解这些信息：
+First, answer an information technology related question. Most of the time you should know this information:
 
-- 对方的开发环境以及版本
-- 对方所使用的工具
-- 程序抛出的报错信息（或是日志）
-- 实际的效果和预期的效果
+- Other's development environment and version
+- Tools used by the other party
+- Error messages (or logs) thrown by the program
+- Actual and expected effects
 
-你要了解问题到底出在哪，如果是一个错误，应该先从报错信息和日志了解问题所在，然后找到相关的源代码，作为一个程序员应该是常识。若源代码无误，没有报错，考虑一下兼容性的问题，注意环境和版本，如果不费时间的话，不妨自己重新实现一下，看看是不是一个 bug，或是什么地方产生了冲突。
+You have to understand where the problem is. If it is an error, you should first understand the problem from the error information and logs, and then find the relevant source code. It should be common sense as a programmer. If the source code is correct and no error is reported, consider compatibility issues, pay attention to the environment and version, and if it does not take time, you may wish to re-implement it yourself to see if it is a bug or where a conflict has occurred.
 
-作为一个能被提问的程序员，基础肯定是没有问题，如何分析问题应该不用多说。
+As a programmer who can be asked questions, the basis is definitely no problem, and how to analyze the problem should not be said much.
 
-但请注意，理解了问题之后最好再从头读一遍问题，避免遗漏疏忽导致误解，闹出答非所问这样的笑话。
+But please note that after understanding the problem, it is best to read it again from the beginning to avoid misunderstandings due to omissions and omissions of jokes that are not answered.
 
-### 符合语法的语句
+### Syntactic statements
 
-语文再不好，人话肯定是会说的。只要用条理清晰的语句简洁地描述解决方案就好了，但简洁归简洁，必要的地方还是不能省。也要注意语句会不会产生歧义，要注意，你是在描述解决方案，而不是在写文学作品。
+No matter how bad the l is, people will definitely speak it. As long as the solution is concisely described in clear sentences, it is concise and concise, and it is necessary to save the unnecessary parts. Also pay attention to the ambiguity of the sentence. Note that you are describing the solution, not writing a poem.
 
-### 专业术语
+### Terminology
 
-如果对方有一定的基础，请尽可能多地用上专业术语，这样能使表达更加准确、简洁有力。这个时候，不需要过多地考虑对方是否有正确理解这个词，只要确认你有正确用好这个词就行了。
+If the other party has a certain foundation, please use professional terms as much as possible. This will make the expression more accurate, concise and powerful. At this time, you don't need to think too much about whether the other party understands the word correctly, just make sure you use the word correctly.
 
-有时候，同一个事物会有多种表达，例如 inline element 既可以叫做行内元素，也可叫做内联元素。这个时候我们要尽量选择能让对方快速理解的词汇，通常也就是比较大众化的表达。“行内元素”比“内联元素”更加常用，要用到的时候，选择“行内元素”会让表达更加清晰。
+If the other party has a certain foundation, please use professional terms as muSometimes there are multiple expressions of the same thing. For example, an Chinese dog can be called both a dirt dog and a Chinese Garden Dogt. At this time, we should try to choose a vocabulary that can be quickly understood by the other party, which is usually a more popular expression. "Dirt dog" are more commonly used than "Chinese Garden Dog". But when you want to use them, selecting "Chinese Garden Dog" will make the expression clearer.
 
-在必要的时候，使用英语名词能更准确地表达自己的意思，因为许多的名词都是从英语翻译过来的，难免会产生歧义，例如前端设计中的 Flex 布局，也不会有多少人将它称作“弹性布局”的吧。善用英文不仅能使表达更加准确，还更加简洁有力。
+When necessary, use English nouns to express their meanings more accurately, because many nouns are translated from English, it will inevitably cause ambiguity, such as the Flex layout in front-end design, and not many people will use it Call it "flexible layout". Not only can English be used more accurately, but it can also be more concise and clearly.
 
-### 注意标点符号
+### Pay attention to punctuation
 
-有不少的歧义都是标点符号闹出来的，想想为什么会有“牛津逗号”这样的存在。你不一定要百分之百准确地用好句子里的每一个标点符号，你只需要保证这句话不会被人理解成别的意思，你甚至可以在一句话中只使用逗号和句号。
+Many ambiguities are caused by punctuation. Think about why there is such a "functuation". You don't have to use every punctuation mark in a sentence with 100% accuracy. You just need to ensure that this sentence is not understood by others. You can even use only commas and periods in a sentence.
 
-如果你实在嫌弃标点符号烦人，觉得不停切换输入法就是为了打出正确的符号很麻烦，为什么不试试用空格或换行来代替它们？尽管我不太推荐这种做法。
+If you really hate punctuation and annoying, and find it difficult to switch input methods just to type the correct symbols, why not try to replace them with spaces or newlines? Although I do not recommend this approach.
 
-### 减少反问
+### Reduce rhetorical questions
 
-不少的提问者也不懂得提问的智慧，它们总给不出完整的信息让被提问者进行分析，常常会需要反过来询问它们以获得更多的信息。我想这也是为什么不少的 GitHub 仓库都会给 issues 写一个默认的格式，就是为了让提问者尽可能提供完整的信息。
+Many questioners do not understand the wisdom of asking questions. They do not always give complete information for the questionees to analyze, and often they need to ask them in turn to get more information. I think this is why many GitHub repositories set a default format for submit issues, just to make the questioner provide as complete information as possible.
 
-你也一定会遇到需要反问的时候，但是在很多时候这是非常耗费时间的，因为基础差的提问者常常需要你来向他们解释你想要的信息是什么、在哪里，而对方或许也在等待你回答的同时自己寻找答案，相对于对方来说也不太友好。所以，要尽可能减少反问的次数，可能的话，一次就把对方没有提供的信息说出来，对双方都比较友好。
+You will also encounter times when you need to ask back, but in many cases this is very time consuming, because questioners with poor foundation often need you to explain to them what and where you want the information, and the other party may also Finding the answer while waiting for your answer is not friendly to the other party. Therefore, it is necessary to reduce the number of cross-examinations as much as possible. If possible, speak out the information that the other party has not provided, which is friendly to both parties.
 
-### 基本的礼仪
+### Basic etiquette
 
-尽管对方是有求于你，但你最好也要平等地对待对方，做到互相尊重。不需要特别注意使用敬语，因为从某种角度来说，该被尊敬的人是你而不是对方，但也不该贬低，哪怕是玩笑。
+Although the other party is asking for you, you'd better treat the other party equally and respect each other. You don't need to pay special attention to the use of honorifics, because from a certain perspective, the person you should be respected is not you, but you should not belittle it, even if it is a joke.
 
-请避免在回答的时候说出“这么简单的问题都不会？“、”答案明明就很明显“这样的话，如果你不知道怎样委婉地表达，你可以直接给对方有相关资料的网址让他找到答案，而不是来上一句嘲讽。
+Please avoid saying "Will such a simple question?", "The answer is obvious". In this case, if you do not know how to express it euphemistically, you can directly give the other party the URL of the relevant information for him Find the answer, not a taunt.
 
-解决问题之后也要及时回应对方的道谢，“不用谢” “小意思”之类的话应该都不难吧？如果对方因为自身能力弱，在求助过程中造成了一些麻烦，向你道歉，也应及时回应，这些感谢语就不一一列举了。
+After solving the problem, you should also respond to the other person's thanks in a timely manner. It should not be difficult to say "no thanks" or "trivial"? If the other party has caused some trouble in the process of asking for help because of their weak abilities, they should also apologize and respond in a timely manner. These gratitude words are not listed one by one.
 
-礼仪无需多讲，总之做到就好。
+There is no need to talk about etiquette, anyway, just do it.
 
-## 必要的补充说明
+## Necessary supplementary notes
 
-有时候，问题解决后会引发一些其他的小问题，特别是某些程序的 bug 的临时解决方案，这个你需要说明清楚，免得麻烦对方发现之后再来问一次。
+Sometimes, after the problem is solved, it will cause some other small problems, especially temporary solutions to bugs in certain programs. You need to explain this clearly, so as not to bother the other party to find out and ask again.
 
-某些功能实现之后，日后需要经常更改相关代码，也应交代清楚。
+After some functions are implemented, the related code needs to be changed frequently in the future, and it should also be explained clearly.
 
-总之需要对方注意的，都请帮忙帮到底，不要因为说明的疏忽给别人造成了其他的麻烦。
+In short, if the other party needs to pay attention, please help to the end, and don't cause other troubles to others due to the negligence of explanation.
 
-## 如何有礼地拒绝
+## How to decline politely
 
-当你收到他人的问题，你可能在忙，或是因为心情不好等其他原因不愿意回答或帮助，也有可能是自己的能力不够，所学内容没有涉及到那一方面，无法回答，这时应该**婉拒**。
+When you receive a question from another person, you may be busy, or you are unwilling to answer or help because of a bad mood or other reasons, or you may not be able enough. What you have learned is not related to that aspect and cannot be answered. It should be **rejected**.
 
-首先要如实地交代不能回答的原因（如果这个原因中涉及个人隐私，可以用万能的“我在忙”代替），同时也不能显得太过敷衍，谁知道暗地里对方会怎样评论你呢？
+First of all, truthfully explain the reason why you ca n’t answer (if this reason involves personal privacy, you can use the universal “I ’m busy”), and it ca n’t seem too perfunctory. Who knows how the other side secretly commented on you?
 
-如果可以的话，可以给对方推荐其他有能力的大佬，或是可能有相关资料的网站/文档，让对方找到一个方向，更快地解决问题。
+If possible, you can recommend other capable bosses, or websites / documents that may have relevant information, so that the other party can find a direction and solve the problem faster.
 
-最后，尽管没有多大道歉的必要，但请多说一句“对不起”。
+Finally, although there is no need to apologize, please say "I'm so sorry".
 
-## 如果问题还是没解决
+## If the problem is still not resolved
 
-通过你对问题的分析所提供的解决方案也不一定能解决问题，这有很多方面的原因：对方执行上的失误、方案本身的问题、（可能）问题的不可解决性等。但在彻底找不到出路之前都不要放弃。
+The solution provided by your analysis of the problem may not necessarily solve the problem. There are many reasons for this: the execution error of the other party, the problem of the solution itself, the unsolvability of the (probable) problem, etc. But don't give up until you find a way out.
 
-亲自动手，通过远程控制或者自己搭建一个环境重新实现，这种方法能有效地解决可被解决的问题。根据你自己的做法或许能容易地找到对方的漏洞和错误，但注意了，这种方法仅限于迫不得已的时候，不然很麻烦、浪费时间还容易发生意外。它只是有效而不是有效率。
+Do it yourself, re-implement by remote control or set up an environment yourself, this method can effectively solve the problem that can be solved. Depending on your own approach, you may be able to easily find the loopholes and errors of the other party, but note that this method is limited to the last resort, otherwise it is cumbersome, time-consuming and prone to accidents. It's just effective, not efficient.
 
-如果还是没有解决，尝试从细微之处找问题。例如本地缓存之类的问题，这很简单，而且是你最开始就应该注意的问题，但说不定你就漏掉了呢。此外，重启和重装也是一个你早就该试试的方法。
+If that doesn't work, try to find the problem in subtle ways. For example, problems such as local caching are very simple and you should pay attention to them from the beginning, but maybe you missed it. In addition, restarting and reinstalling is also a method you should try long ago.
 
-如果到最后你还是没能帮助对方解决问题，浪费了对方的时间，一句“对不起”总是好的。通常这样的问题在搜索引擎或是某些网站上已经难以找到答案，你可以给对方推荐一些更厉害的大佬，说不定别人就解决了呢？
+If in the end you still can't help the other party to solve the problem and waste the other party's time, a "sorry" is always good. Usually this kind of problem is already difficult to find the answer on the search engine or some websites, you can recommend some more powerful guys to the other party, maybe someone else will solve it?
 
-## 搞砸了怎么办
+## What to do if messed up
 
-如果你在描述解决方案或是直接帮助时因为操作失误等原因，给对方造成了一定的损失，例如：数据丢失、服务器过载等问题。尽管这种情况不太常见，但如果遇到了，你应该负起责任。
+If you describe the solution or directly help, due to operating errors and other reasons, the other party caused some losses, such as: data loss, server overload and other problems. Although this situation is less common, you should take responsibility if you encounter it.
 
-首先，永远不要吝啬你的“对不起”。这种情况下你第一个能做的事情就是**道歉**，主动承认你的错误，描述清楚意外发生的原因，不要让对方觉得你是在开玩笑。
+First and foremost, should say "I'm sorry". In this case, the first thing you can do is **apology **, take the initiative to admit your mistake, describe the reason for the accident, and don't make the other person think you are joking.
 
-然后，尝试补救。就像你小时候一不小心打碎了别人家小朋友的玩具，无论结果怎样，都还是要修锅的，就算不能彻底修好，但也算是在展示你的态度了。
+Then, try to remedy. Just like when you accidentally broke the toys of other children's children, no matter what the result, you still have to repair the error. Even if you can't completely repair it, the way still showing your attitude.
 
-到最后，如果真的给对方造成了不可挽回的损失，要怎么赔偿还是要看对方的想法了。
+In the end, if it really caused irreparable losses to the other party, how to compensate depends on the other party's thoughts.
 
-## 报酬
+## Reward
 
-你帮助对方解决了问题，理应获得一定的报酬。但对于网络上更多是发自善心的帮助，不应强行索要报酬，不要认为你帮了对方一个小忙对方就该砸你钱，何况这钱也不会多，最多算是欠你一个人情。不过，如果对方真的主动想要用金钱当做感谢的话，也不用拒绝，因为这是你应得的。
+You helped the other person solve the problem and deserve a certain amount of compensation. But in the Internet, it is more of a kind-hearted help. You should n’t ask for compensation forcibly. Don’t think that if you help the other person to do a little favor, the other person should give your money, not to mention that the money is not much. However, if the other party really wants to use money as a thank you, don't decline, because this is what you deserve.
 
 ---
 
-&copy; 采用[知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)进行授权许可
+&amp; Copy; Use [BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/ded.zh) for authorization.
