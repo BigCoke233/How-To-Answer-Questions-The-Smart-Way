@@ -104,7 +104,7 @@ Of course, there is another important question that needs to be confirmed: **Is 
 
 ### In-depth analysis
 
-This is the most important part of answering the question. Now that you have decided to help the other party, then the other party is both a helper and a client. You need to take this matter seriously as your work. At this time, if it is a one-on-one request for help in a private chat, remember to send the other person a "OK, let me see" and other words, indicating that you intend to help solve this problem.
+This is the most important part of answering the question. Now that you have decided to help the other party, then the other party is both a beneficiaries and a client. You need to take this matter seriously as your work. At this time, if it is a one-on-one request for help in a private chat, remember to send the other person a "Okey, let me see" and other words, indicating that you intend to help him to solve this problem.
 
 First, answer an information technology related question. Most of the time you should know this information:
 
@@ -121,19 +121,19 @@ But please note that after understanding the problem, it is best to read it agai
 
 ### Syntactic statements
 
-No matter how bad the language is, people will definitely speak it. As long as the solution is concisely described in clear sentences, it is concise and concise, and it is not necessary to save the necessary parts. Also pay attention to the ambiguity of the sentence. Note that you are describing the solution, not writing a literary work.
+No matter how bad the l is, people will definitely speak it. As long as the solution is concisely described in clear sentences, it is concise and concise, and it is necessary to save the unnecessary parts. Also pay attention to the ambiguity of the sentence. Note that you are describing the solution, not writing a poem.
 
 ### Terminology
 
 If the other party has a certain foundation, please use professional terms as much as possible. This will make the expression more accurate, concise and powerful. At this time, you don't need to think too much about whether the other party understands the word correctly, just make sure you use the word correctly.
 
-Sometimes there are multiple expressions of the same thing. For example, an inline element can be called both an inline element and an inline element. At this time, we should try to choose a vocabulary that can be quickly understood by the other party, which is usually a more popular expression. "Inline elements" are more commonly used than "inline elements". When you want to use them, selecting "inline elements" will make the expression clearer.
+If the other party has a certain foundation, please use professional terms as muSometimes there are multiple expressions of the same thing. For example, an Chinese dog can be called both a dirt dog and a Chinese Garden Dogt. At this time, we should try to choose a vocabulary that can be quickly understood by the other party, which is usually a more popular expression. "Dirt dog" are more commonly used than "Chinese Garden Dog". But when you want to use them, selecting "Chinese Garden Dog" will make the expression clearer.
 
-When necessary, use English nouns to express their meanings more accurately, because many nouns are translated from English, it will inevitably cause ambiguity, such as the Flex layout in front-end design, and not many people will use it Call it "flexible layout". Not only can English be used more accurately, but it can also be more concise and powerful.
+When necessary, use English nouns to express their meanings more accurately, because many nouns are translated from English, it will inevitably cause ambiguity, such as the Flex layout in front-end design, and not many people will use it Call it "flexible layout". Not only can English be used more accurately, but it can also be more concise and clearly.
 
 ### Pay attention to punctuation
 
-Many ambiguities are caused by punctuation. Think about why there is such an "oxford comma". You don't have to use every punctuation mark in a sentence with 100% accuracy. You just need to ensure that this sentence is not understood by others. You can even use only commas and periods in a sentence.
+Many ambiguities are caused by punctuation. Think about why there is such a "functuation". You don't have to use every punctuation mark in a sentence with 100% accuracy. You just need to ensure that this sentence is not understood by others. You can even use only commas and periods in a sentence.
 
 If you really hate punctuation and annoying, and find it difficult to switch input methods just to type the correct symbols, why not try to replace them with spaces or newlines? Although I do not recommend this approach.
 
